@@ -12,4 +12,8 @@ public class CommentsApplication {
 		SpringApplication.run(CommentsApplication.class, args);
 	}
 
+
+
+
+    //
 }
