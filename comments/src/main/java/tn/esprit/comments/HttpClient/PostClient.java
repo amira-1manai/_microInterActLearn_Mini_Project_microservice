@@ -14,3 +14,6 @@ public interface PostClient {
     List<PostClient> findAllPostsByFormuId(@PathVariable("forumId") Long formuId);
 
 }
+
+
+////mapping with posts
