@@ -18,7 +18,7 @@ Clone the repository to your local machine using Git:
 
 in cmd terminal
 Copy code
-git clone https://github.com/abdou6666/ms-learning
+git clone https://github.com/amira-1manai/Mini_Project_microservice
 cd your-project
 
 
